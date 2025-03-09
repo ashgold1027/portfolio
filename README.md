@@ -1,6 +1,16 @@
 ### Education 
 
-University of St Andrews: Bachelor of Science in Psychology (2021-2025)
+University of St Andrews: Bachelor of Science in Psychology (2021-2025)  
+* Relevant courses: Data Science for Psychology and Neuroscience, Psychological Statistics and Methodology
+
+Data Science Online Courses: 
+
+* Kaggle: Python
+* Kaggle: Pandas
+* Kaggle: Data Cleaning
+* Kaggle: Intro to SQL
+* Kaggle: Data Visualization
+* Kaggle: Intro to Machine Learning
 
 ### Projects 
 
@@ -14,6 +24,7 @@ SQL Queries (February 13th, 2025)
 
 Neighborhood Walkability and Health: An Analysis (November 28th, 2024) 
 
+The Spread of COVID-19 in Scotland (October 28th, 2024)
 
 ### Work Experience 
 
