@@ -5,12 +5,7 @@ University of St Andrews: Bachelor of Science in Psychology (2021-2025)
 
 Data Science Online Courses: 
 
-* Kaggle: Python
-* Kaggle: Pandas
-* Kaggle: Data Cleaning
-* Kaggle: Intro to SQL
-* Kaggle: Data Visualization
-* Kaggle: Intro to Machine Learning
+* Kaggle: Python, Pandas, Data Cleaning, Intro to SQL, Data Visualization, Intro to Machine Learning
 
 ### Projects 
 
