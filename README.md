@@ -30,9 +30,13 @@ SQL Queries (February 13th, 2025)
 
 * In this project, I practiced SQL queries on a New York City Airbnb dataset. This involved Loading the dataset, retrieving all of the columns from the datatable, counting the total records, finding the ten neighborhoods with the highest Airbnb prices, finding the number of listings by room type, finding the average number of of reviews per listing, finding listings with the minimum number of reviews, filtering listings by neighborhood and maximum price, and closing the cursor and database connection. 
 
-Neighborhood Walkability and Health: An Analysis (November 28th, 2024) 
+Neighborhood Walkability and Health: An Analysis (November 28th, 2024)  
 
-The Spread of COVID-19 in Scotland (October 28th, 2024)
+* The United States of America has the highest amount of obesity of any country in the world. The U.S. is also notorious for having towns that lack walkability and are reliant on cars instead. The goal of this data analysis was to investigate whether factors that influence an environment’s walkability can be changed to help reduce obesity and increase physical activity, and then to discover which income and race demographics would benefit the most from these changes. This analysis can inform possible intiatives to improve public health and help us know which groups to target these initiatives to. Two sets of data were used for this analysis, both of which were collected by the U.S. government. One data table is about the nutrition of various demographics in the U.S. (https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system), and the other data table is on the walkability of each tract of the U.S. (https://gis.cancer.gov/research/files.html). The walkability data was collected in 2013.
+
+The Spread of COVID-19 in Scotland (October 28th, 2024) 
+
+* For this project, I analyzed the spread of Covid-19 among different demographics in Scotland. 
 
 
 
