@@ -26,7 +26,9 @@ Netflix Data Cleaning (February 14th, 2025)
 
 * In this project, I cleaned a set of Netflix data to prepare it for further analysis. This involded checking the dataset for duplicate rows, handling missing data, ensuring that categorical values are entered in consistently, and converting dates from string objects to datetime objects. 
   
-SQL Queries (February 13th, 2025)  
+SQL Queries (February 13th, 2025)   
+
+* In this project, I practiced SQL queries on a New York City Airbnb dataset. This involved Loading the dataset, retrieving all of the columns from the datatable, counting the total records, finding the ten neighborhoods with the highest Airbnb prices, finding the number of listings by room type, finding the average number of of reviews per listing, finding listings with the minimum number of reviews, filtering listings by neighborhood and maximum price, and closing the cursor and database connection. 
 
 Neighborhood Walkability and Health: An Analysis (November 28th, 2024) 
 
