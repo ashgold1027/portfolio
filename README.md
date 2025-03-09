@@ -36,7 +36,7 @@ Neighborhood Walkability and Health: An Analysis (November 28th, 2024)
 
 The Spread of COVID-19 in Scotland (October 28th, 2024) 
 
-* For this project, I analyzed the spread of Covid-19 among different demographics in Scotland. 
+* This is an analysis on the spread of Covid-19 among different demographics in Scotland. This analysis was conduced on real public datasets on the spread of covid and Scottish demographics. 
 
 
 
