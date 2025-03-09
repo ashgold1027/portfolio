@@ -21,5 +21,5 @@ Neighborhood Walkability and Health: An Analysis (November 28th, 2024)
 
 The Spread of COVID-19 in Scotland (October 28th, 2024)
 
-### Work Experience 
+
 
