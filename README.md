@@ -20,7 +20,7 @@ COVID-19 Data Visualization (March 6th, 2025)
 
 SQL for Epidemiology (February 18th, 2025)  
 
-* In this project, I analyzed a COVID-19 dataset using SQL queries. This involved importing the libraries and dataset, setting up the SQLite database, selecting columns and rows from the data table, filtering data to fit certain criteria, using aggregate functions to summarize the data, grouping data and filtering groups, sorting data, combining data tables, writing subqueries to further refine the data, using window functions to perform operations on the data, and creating a visualization witb Matplotlib. 
+* In this project, I analyzed a COVID-19 dataset using SQL queries. This involved importing the libraries and dataset, setting up the SQLite database, selecting columns and rows from the data table, filtering data to fit certain criteria, using aggregate functions to summarize the data, grouping data and filtering groups, sorting data, combining data tables, writing subqueries to further refine the data, using window functions to perform operations on the data, and creating a visualization with Matplotlib. 
 
 Netflix Data Cleaning (February 14th, 2025) 
 
