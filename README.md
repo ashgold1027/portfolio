@@ -43,7 +43,7 @@
 
 * In this project, I analyzed a COVID-19 dataset using SQL queries. The project involved importing the necessary libraries and dataset, setting up the SQLite database, selecting columns and rows from the data table, filtering data based on specific criteria, using aggregate functions to summarize the data, grouping and filtering groups, sorting data, combining data tables, writing subqueries to refine the data, applying window functions, and visualizing the results using Matplotlib.
 
-**Netflix Data Cleaning (February 14th, 2025)** 
+[**Netflix Data Cleaning (February 14th, 2025)**](https://colab.research.google.com/drive/139d9Wz4gKFJGWEk9LVYPu-VnOEwkTTEb?usp=sharing) 
 
 * In this project, I cleaned a Netflix dataset to prepare it for further analysis. The process involved checking for duplicate rows, handling missing data, ensuring consistent categorical values, and converting date strings into datetime objects. 
 
