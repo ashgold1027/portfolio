@@ -1,4 +1,4 @@
-# Education 
+## Education 
 
 ## University of St Andrews: Bachelor of Science in Psychology (2021-2025)
 
