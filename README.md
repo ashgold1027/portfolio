@@ -53,9 +53,9 @@
 
 [**Neighborhood Walkability and Health: An Analysis (November 28th, 2024)**](https://github.com/ashgold1027/Neighborhood-Walkability-and-Health-An-Analysis/blob/main/Health_Walkability_Project.ipynb)
 
-* The United States has the highest obesity rate of any country in the world, which may be linked to a lack of walkable environments and car dependency in many areas. This analysis explored whether modifying factors that influence walkability can help reduce obesity and increase physical activity. It also investigated which income and racial demographics would benefit most from such changes. The analysis utilized two datasets from the U.S. government: one on nutrition, physical activity, and obesity (https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system) and another on the walkability of U.S. tracts collected in 2013 (https://gis.cancer.gov/research/files.html). The findings offer insights that can inform public health initiatives and help target the most vulnerable groups.
+* The United States has the highest obesity rate of any country in the world, which may be linked to a lack of walkable environments and car dependency in many areas. This analysis explored whether modifying factors that influence walkability can help reduce obesity and increase physical activity. It also investigated which income and racial demographics would benefit most from such changes. The analysis utilized two datasets from the U.S. government: one on [nutrition, physical activity, and obesity](https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system) and another on [the walkability of U.S. tracts collected in 2013](https://gis.cancer.gov/research/files.html). The findings offer insights that can inform public health initiatives and help target the most vulnerable groups.
 
-**The Spread of COVID-19 in Scotland (October 28th, 2024)** 
+[**The Spread of COVID-19 in Scotland (October 28th, 2024)**](https://github.com/ashgold1027/The-Spread-of-Covid-19-in-Scotland/blob/main/The%20Spread%20of%20Covid-19%20in%20Scotland.ipynb) 
 
 * This project analyzed the spread of COVID-19 among different demographic groups in Scotland using real public datasets on COVID-19 transmission and Scottish demographics.
 
