@@ -35,8 +35,7 @@
 
 ## Data Science Projects 
 
-**COVID-19 Data Visualization (March 6th, 2025)**   
-[Project Link](https://colab.research.google.com/drive/1iCFzlUV6_f3x_OPRluk7g0FTgm5R7HgL?usp=sharing)
+[**COVID-19 Data Visualization (March 6th, 2025)**](https://colab.research.google.com/drive/1iCFzlUV6_f3x_OPRluk7g0FTgm5R7HgL?usp=sharing)  
 
 * In this project, I explored and visualized COVID-19 data, including vaccination rates, infection rates, and death counts. I used Pandas to summarize the data with descriptive statistics and applied Matplotlib and Seaborn to visualize trends and identify patterns. The visualizations revealed that Western European countries had higher mortality rates than Eastern European countries, and that the United States had the highest number of active COVID-19 cases in the Americas. These insights suggest that future research should investigate differences in healthcare systems, policies, and other factors that may contribute to these trends.
 
