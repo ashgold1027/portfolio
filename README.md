@@ -51,7 +51,7 @@
 
 * In this project, I practiced SQL queries on a New York City Airbnb dataset. This included loading the dataset, retrieving all columns from the data table, counting the total records, identifying the ten neighborhoods with the highest Airbnb prices, determining the number of listings by room type, calculating the average number of reviews per listing, finding listings with the minimum number of reviews, filtering listings by neighborhood and maximum price, and closing the cursor and database connection. 
 
-**Neighborhood Walkability and Health: An Analysis (November 28th, 2024)**  
+[**Neighborhood Walkability and Health: An Analysis (November 28th, 2024)**](https://github.com/ashgold1027/Neighborhood-Walkability-and-Health-An-Analysis/blob/main/Health_Walkability_Project.ipynb)
 
 * The United States has the highest obesity rate of any country in the world, which may be linked to a lack of walkable environments and car dependency in many areas. This analysis explored whether modifying factors that influence walkability can help reduce obesity and increase physical activity. It also investigated which income and racial demographics would benefit most from such changes. The analysis utilized two datasets from the U.S. government: one on nutrition, physical activity, and obesity (https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system) and another on the walkability of U.S. tracts collected in 2013 (https://gis.cancer.gov/research/files.html). The findings offer insights that can inform public health initiatives and help target the most vulnerable groups.
 
