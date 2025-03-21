@@ -47,7 +47,7 @@
 
 * In this project, I cleaned a Netflix dataset to prepare it for further analysis. The process involved checking for duplicate rows, handling missing data, ensuring consistent categorical values, and converting date strings into datetime objects. 
 
-**SQL Queries (February 13th, 2025)**  
+[**SQL Queries (February 13th, 2025)**](https://colab.research.google.com/drive/14V-zfb2khPWpBXZJdGvhL_MmF0uTtUNo?usp=sharing)  
 
 * In this project, I practiced SQL queries on a New York City Airbnb dataset. This included loading the dataset, retrieving all columns from the data table, counting the total records, identifying the ten neighborhoods with the highest Airbnb prices, determining the number of listings by room type, calculating the average number of reviews per listing, finding listings with the minimum number of reviews, filtering listings by neighborhood and maximum price, and closing the cursor and database connection. 
 
