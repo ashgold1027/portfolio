@@ -13,7 +13,7 @@
 * Data Visualization
 * Intro to Machine Learning
 
-#Psychology Research Projects 
+# Psychology Research Projects 
 
 **Self-Regulation and Procrastination: A New Treatment (will be completed on April 30th)**
 
