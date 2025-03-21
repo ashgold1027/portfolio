@@ -13,7 +13,7 @@ Data Science Online Courses (Kaggle):
 * Data Visualization
 * Intro to Machine Learning
 
-### Research Projects 
+### Psychology Research Projects 
 
 Self-Regulation and Procrastination: A New Treatment (will be completed on April 30th) 
 
@@ -34,7 +34,7 @@ Does guided imagery of meaningful places alleviate state anxiety and improve moo
 
   
 
-### Projects 
+### Data Science Projects 
 
 COVID-19 Data Visualization (March 6th, 2025)  
 
