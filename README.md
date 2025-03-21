@@ -1,4 +1,4 @@
-![Circular Headshot](assets/CircularHeadshot.png)
+![Circular Headshot](assets/CircularHeadshot 2.jpeg)
 
 ## Education 
 
