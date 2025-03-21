@@ -12,6 +12,15 @@ Data Science Online Courses (Kaggle):
 * Data Visualization
 * Intro to Machine Learning
 
+### Research Projects 
+
+Self-Regulation and Procrastination: A New Treatment (will be completed on April 30th) 
+
+* For this dissertation project, I intvented a new treatment that aims to help students decrease procrastination by improving their self-regulation, and I am testing this treatment on first-year psychology students. More specifically, I am comparing how quickly students who received the intervention submit a lab report to students who did not receive the intervention. The psychology students were randomly assigned to each condition, and completed either the intervention or a control condition on a Qualtrics survey. Later in the semester, a follow-up survey will be administered to collect data on when students submit their lab reports. An independent samples T-test will be conducted with SPSS to test whether there was a significant difference between the average submission date of students who received the intervention and students who did not receive the intervention. My findings will be written into a report and presented to a panel audience.
+
+
+  
+
 ### Projects 
 
 COVID-19 Data Visualization (March 6th, 2025)  
