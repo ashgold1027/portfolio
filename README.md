@@ -39,7 +39,7 @@
 
 * In this project, I explored and visualized COVID-19 data, including vaccination rates, infection rates, and death counts. I used Pandas to summarize the data with descriptive statistics and applied Matplotlib and Seaborn to visualize trends and identify patterns. The visualizations revealed that Western European countries had higher mortality rates than Eastern European countries, and that the United States had the highest number of active COVID-19 cases in the Americas. These insights suggest that future research should investigate differences in healthcare systems, policies, and other factors that may contribute to these trends.
 
-**SQL for Epidemiology (February 18th, 2025)**
+[**SQL for Epidemiology (February 18th, 2025)**](https://colab.research.google.com/drive/1Yvm1C0Kf2UpUrJtIVUjgzXXAHHItxsnB?usp=sharing)
 
 * In this project, I analyzed a COVID-19 dataset using SQL queries. The project involved importing the necessary libraries and dataset, setting up the SQLite database, selecting columns and rows from the data table, filtering data based on specific criteria, using aggregate functions to summarize the data, grouping and filtering groups, sorting data, combining data tables, writing subqueries to refine the data, applying window functions, and visualizing the results using Matplotlib.
 
