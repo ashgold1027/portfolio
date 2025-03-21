@@ -1,6 +1,7 @@
 ### Education 
 
-University of St Andrews: Bachelor of Science in Psychology (2021-2025)  
+University of St Andrews: Bachelor of Science in Psychology (2021-2025)   
+
 * Relevant courses: Data Science for Psychology and Neuroscience, Psychological Statistics and Methodology
 
 Data Science Online Courses (Kaggle): 
@@ -18,6 +19,18 @@ Self-Regulation and Procrastination: A New Treatment (will be completed on April
 
 * For this dissertation project, I intvented a new treatment that aims to help students decrease procrastination by improving their self-regulation, and I am testing this treatment on first-year psychology students. More specifically, I am comparing how quickly students who received the intervention submit a lab report to students who did not receive the intervention. The psychology students were randomly assigned to each condition, and completed either the intervention or a control condition on a Qualtrics survey. Later in the semester, a follow-up survey will be administered to collect data on when students submit their lab reports. An independent samples T-test will be conducted with SPSS to test whether there was a significant difference between the average submission date of students who received the intervention and students who did not receive the intervention. My findings will be written into a report and presented to a panel audience.
 
+
+Does guided imagery of meaningful places alleviate state anxiety and improve mood? (January 8th)  
+
+* This research project will be presented at the American Psychological Association's 2025 conference. 
+
+* This research projects tested the effects of guided imagery on anxiety and mood in university students with anxiety. Guided imagery involves beging guided by an audio recording to imagine vivid sensory experiences. The aim of this research project was to test the effects of imagining an urban place versus a natural place, and a place that is meaningful to the participant versus a place that is neutral. We hypothesized that imagining meaningful places, particularly natural ones, would have a greater impact on these measures than imagining neutral places.
+
+* Methodology: Participants completed surveys measuring positive mood, negative mood, and state anxiety before and after the guided imagery task. Linear mixed effects modelling was conducted on SPSS to analyze the quantitative data from these surveys. Participants also answered open-ended questions about their experiences. Template analysis was used to analyze the qualitative data from these questions.
+
+* Results: Results indicated that state anxiety and negative affect decreased significantly in all conditions. However, imagining a neutral place significantly reduced positive affect, while both meaningful conditions had no effect. Qualitative analysis revealed themes of present focus, quieter thoughts, and distraction from stress, as well as challenges completing the neutral place condition.
+
+* Conclusion: These findings did not support the hypothesis that meaningful natural places would have the greatest effects on state anxiety and affect. This suggests that the therapeutic effects on state anxiety and negative affect may stem from the guided imagery task itself, rather than the type of imagined place.
 
   
 
