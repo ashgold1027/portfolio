@@ -2,7 +2,7 @@
 
 ## Education 
 
-# University of St Andrews: Bachelor of Science in Psychology (2021-2025)
+### University of St Andrews: Bachelor of Science in Psychology (2021-2025)
 
 * Relevant courses: Data Science for Psychology and Neuroscience, Psychological Statistics and Methodology
 
