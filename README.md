@@ -17,13 +17,13 @@
 
 ## Psychology Research Projects 
 
-**Self-Regulation and Procrastination: A New Treatment (to be completed on April 30th, 2025)**
+**Self-Regulation and Procrastination: A New Treatment (completed on April 30th, 2025)**
 
-* For this dissertation project, I developed a novel intervention to help students reduce procrastination by enhancing self-regulation. I am currently testing the intervention on first-year psychology students. Specifically, I am comparing the submission times of lab reports between students who received the intervention and those who did not. Participants were randomly assigned to either the intervention or control condition and completed the corresponding task via a Qualtrics survey. A follow-up survey will be administered later in the semester to collect data on lab report submission times. An independent samples t-test will be conducted in SPSS to determine whether there is a significant difference in the average submission date between the two groups. The findings will be presented in a report and delivered to a panel audience.
+* For this dissertation project, I developed a novel intervention to help students reduce procrastination by enhancing self-regulation. I tested the intervention on first-year psychology students. Specifically, I compared the submission times of lab reports between students who received the intervention and those who did not. Participants were randomly assigned to either the intervention or control condition and completed the corresponding task via a Qualtrics survey. Participants completed a follow-up survey later in the semester to collect data on lab report submission times. An independent samples t-test was conducted in SPSS to determine whether there is a significant difference in the average submission date between the two groups. This analysis revealed that there was no difference between the submission dates for the two groups. My findings were written into a lab report and delivered to a panel audience. 
 
 **Does guided imagery of meaningful places alleviate state anxiety and improve mood? (January 8th, 2025)**  
 
-* This research project will be presented at the American Psychological Association's 2025 conference. 
+* This research project will be presented at the American Psychological Association's 2025 conference on August 7th. 
 
 * This study investigated the effects of guided imagery on anxiety and mood in university students with anxiety. Guided imagery involves using an audio recording to lead participants through imagining vivid sensory experiences. The aim was to examine the effects of imagining an urban place versus a natural place, and a personally meaningful place versus a neutral place. We hypothesized that imagining meaningful places, particularly natural ones, would have a greater impact on anxiety and mood than imagining neutral places.
 
