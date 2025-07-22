@@ -2,6 +2,8 @@
 
 ## Education 
 
+### Boston University: Master's of Data Science (2025-2027)
+
 ### University of St Andrews: Bachelor of Science in Psychology (2021-2025)
 
 * Relevant courses: Data Science for Psychology and Neuroscience, Psychological Statistics and Methodology
