@@ -26,7 +26,7 @@
 
 **Does guided imagery of meaningful places alleviate state anxiety and improve mood? (January 8th, 2025)**  
 
-* This research project will be presented as a [poster](https://docs.google.com/document/d/1hHCCx75SgTgRTbaIS7xKagfLGG5-remc/edit?usp=sharing&ouid=115946607884560544016&rtpof=true&sd=true) at the American Psychological Association conference on August 7th. 
+* This research project will be presented as a [poster](https://www.canva.com/design/DAGt6OvvHGE/E_i9DrxB296t5m2T-ojnPg/view?utm_content=DAGt6OvvHGE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8a74b847bd) at the American Psychological Association conference on August 7th. 
 
 * This study investigated the effects of guided imagery on anxiety and mood in university students with anxiety. Guided imagery involves using an audio recording to lead participants through imagining vivid sensory experiences. The aim was to examine the effects of imagining an urban place versus a natural place, and a personally meaningful place versus a neutral place. We hypothesized that imagining meaningful places, particularly natural ones, would have a greater impact on anxiety and mood than imagining neutral places.
 
