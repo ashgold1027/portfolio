@@ -19,9 +19,10 @@
 
 ## Psychology Research Projects 
 
-**Self-Regulation and Procrastination: A New Treatment (completed on April 30th, 2025)**
+[**Self-Regulation and Procrastination: A New Treatment (completed on April 30th, 2025)**](https://docs.google.com/document/d/1hHCCx75SgTgRTbaIS7xKagfLGG5-remc/edit?usp=sharing&ouid=115946607884560544016&rtpof=true&sd=true)
 
 * For this dissertation project, I developed a novel intervention to help students reduce procrastination by enhancing self-regulation. I tested the intervention on first-year psychology students. Specifically, I compared the submission times of lab reports between students who received the intervention and those who did not. Participants were randomly assigned to either the intervention or control condition and completed the corresponding task via a Qualtrics survey. Participants completed a follow-up survey later in the semester to collect data on lab report submission times. An independent samples t-test was conducted in SPSS to determine whether there is a significant difference in the average submission date between the two groups. This analysis revealed that there was no difference between the submission dates for the two groups. My findings were written into a lab report and delivered to a panel audience. 
+
 
 **Does guided imagery of meaningful places alleviate state anxiety and improve mood? (January 8th, 2025)**  
 
